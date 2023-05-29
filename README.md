@@ -30,7 +30,7 @@ a part of my online course coding ninjas.</p>
 <hr>
 <img src="[https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js](https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/issu%20tracker.png)">
 <img src="[https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js](https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/Screenshot%20(1085).png)">
-<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+</img src="[https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js](https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/Screenshot%20(1086).png)">
 <img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
 <img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
 
