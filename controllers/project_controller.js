@@ -1,6 +1,8 @@
-const Project = require('../models/project');
 const Issue = require('../models/issue');
+const Project = require('../models/project');
+
 const { findById } = require('../models/project');
+
 
 // create a project for the user
 module.exports.create = async function (req, res) {
