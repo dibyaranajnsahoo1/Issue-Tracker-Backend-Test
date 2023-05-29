@@ -6,9 +6,8 @@ module.exports.home = async function (req, res) {
       title: 'Issue Tracker | Home',
       projects,
     });
-  } 
-  catch {
-    console.log('error', err);
+  } catch {
+    console.log('Error', err);
     return;
   }
 };
