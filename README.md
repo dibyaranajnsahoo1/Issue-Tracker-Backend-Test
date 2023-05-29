@@ -28,4 +28,9 @@ a part of my online course coding ninjas.</p>
   
 <h1>Screenshot</h1>
 <hr>
-<img src=""
+<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+<img src="https://github.com/dibyaranajnsahoo1/Issue-Tracker-Backend-Test/blob/main/index.js">
+
